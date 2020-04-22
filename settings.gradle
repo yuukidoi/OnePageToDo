@@ -1,0 +1,2 @@
+rootProject.name='OnePageToDo'
+include ':app'
